@@ -42,6 +42,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  favicon: https://elara-aerospace.com/assets/images/favicon/apple-icon-60x60.png
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
