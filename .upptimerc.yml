@@ -5,8 +5,12 @@ repo: elara-status # The name of this repository
 sites:
   - name: Website
     url: https://elara-aerospace.com
+    assignees:
+      - suriyaa
   - name: GitHub Repositories
     url: https://github.com/elara-aerospace
+    assignees:
+      - suriyaa
   - name: GitHub DNS (185.199.108.153)
     check: "tcp-ping"
     url: 185.199.108.153
