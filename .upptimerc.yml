@@ -27,6 +27,10 @@ sites:
     check: "tcp-ping"
     url: 185.199.111.153
     port: 80
+  - name: Hetzner (Windows Virtual Machines)
+    check: "tcp-ping"
+    url: static.48.70.216.95.clients.your-server.de
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
