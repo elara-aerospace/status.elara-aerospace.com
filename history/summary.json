@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   },
   {
@@ -105,6 +105,24 @@
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 5,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Hetzner (Windows Virtual Machines)",
+    "url": "static.48.70.216.95.clients.your-server.de",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hetzner-windows-virtual-machines",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 118,
+    "timeDay": 118,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   }
 ]
