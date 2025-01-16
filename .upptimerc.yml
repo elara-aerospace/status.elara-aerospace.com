@@ -7,6 +7,22 @@ sites:
     url: https://elara-aerospace.com
   - name: GitHub Repositories
     url: https://github.com/elara-aerospace
+  - name: GitHub DNS (185.199.108.153)
+    check: "tcp-ping"
+    url: 185.199.108.153
+    port: 80
+  - name: GitHub DNS (185.199.109.153)
+    check: "tcp-ping"
+    url: 185.199.109.153
+    port: 80
+  - name: GitHub DNS (185.199.110.153)
+    check: "tcp-ping"
+    url: 185.199.110.153
+    port: 80
+  - name: GitHub DNS (185.199.111.153)
+    check: "tcp-ping"
+    url: 185.199.111.153
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
