@@ -4,10 +4,10 @@
     "url": "https://elara-aerospace.com",
     "icon": "https://icons.duckduckgo.com/ip3/elara-aerospace.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
@@ -15,7 +15,9 @@
     "timeWeek": 245,
     "timeMonth": 223,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 1
+    }
   },
   {
     "name": "GitHub Repositories",
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 107,
+      "2025-03-07": 391,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -208,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 107,
+      "2025-03-07": 391,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
