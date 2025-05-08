@@ -114,10 +114,10 @@
     "url": "static.48.70.216.95.clients.your-server.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hetzner-windows-lite-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
@@ -125,7 +125,9 @@
     "timeWeek": 120,
     "timeMonth": 134,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 1
+    }
   },
   {
     "name": "Hetzner (Windows High Performance server)",
@@ -144,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 117,
+      "2025-05-08": 699,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -272,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 117,
+      "2025-05-08": 699,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
