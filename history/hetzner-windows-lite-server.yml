@@ -1,7 +1,7 @@
 url: static.48.70.216.95.clients.your-server.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-12T23:13:02.140Z
+status: up
+code: 200
+responseTime: 133
+lastUpdated: 2025-05-13T07:26:21.869Z
 startTime: 2025-01-20T15:27:34.056Z
 generator: Upptime <https://github.com/upptime/upptime>
