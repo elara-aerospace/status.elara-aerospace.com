@@ -4,10 +4,10 @@
     "url": "https://elara-aerospace.com",
     "icon": "https://icons.duckduckgo.com/ip3/elara-aerospace.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 253,
@@ -16,6 +16,7 @@
     "timeMonth": 259,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2025-06-19": 1,
       "2025-03-07": 41
     }
   },
@@ -115,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hetzner-windows-lite-server",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.78%",
     "time": 135,
     "timeDay": 134,
     "timeWeek": 130,
@@ -151,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 122,
+      "2025-06-19": 600,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -321,7 +322,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 122,
+      "2025-06-19": 600,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
