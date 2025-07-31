@@ -25,18 +25,20 @@
     "url": "https://github.com/elara-aerospace",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-repositories",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 433,
-    "timeWeek": 470,
-    "timeMonth": 493,
-    "timeYear": 498,
-    "dailyMinutesDown": {}
+    "time": 496,
+    "timeDay": 256,
+    "timeWeek": 421,
+    "timeMonth": 480,
+    "timeYear": 496,
+    "dailyMinutesDown": {
+      "2025-07-31": 1
+    }
   },
   {
     "name": "GitHub DNS (185.199.108.153)",
@@ -152,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 131,
+      "2025-07-31": 433,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -364,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 131,
+      "2025-07-31": 433,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
