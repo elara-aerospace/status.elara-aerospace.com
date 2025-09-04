@@ -4,9 +4,9 @@
     "url": "https://elara-aerospace.com",
     "icon": "https://icons.duckduckgo.com/ip3/elara-aerospace.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 295,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2025-09-04": 1,
       "2025-09-02": 21,
       "2025-09-01": 69,
       "2025-08-30": 20,
@@ -162,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 106,
+      "2025-09-04": 223,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -409,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 106,
+      "2025-09-04": 223,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
